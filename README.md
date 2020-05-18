@@ -1,4 +1,12 @@
-Intelligent Systems 2019
+# ATTENTION! This program is mostly non original Attention!
+
+Starting off with a solid backbone, including the front-end side, the requirement for this project, started for the course of Intelligent System at Vrije Universiteit - Amsterdam, was for a group of 3 students, to develop classes of improved bots that would play a card game against each other or against a human in the browser while evaluating their abilities in terms of winning ratio.
+
+You can find a final report, explaining in details the caveats of the experiments conducted, in the docs folder. \
+
+I leave you at the original description of the system.
+
+Intelligent Systems
 ========================
 This is the practical material for the Intelligent Systems course, based on the
 card based strategy game _Schnapsen_.
@@ -134,7 +142,7 @@ state = State.generate(1)
 # but all attributes are identical.
 same_state = State.generate(1)
 
-diff_state = State.generate(2) 
+diff_state = State.generate(2)
 
 # The equality and inequality operators are overridden for State
 # objects, so you can check if all parameters of two states match.
