@@ -1,4 +1,4 @@
-# ATTENTION! This program is mostly non original Attention!
+# ATTENTION! This program is mostly non original ATTENTION!
 
 Starting off with a solid backbone, including the front-end side, the requirement for this project, started for the course of Intelligent System at Vrije Universiteit - Amsterdam, was for a group of 3 students, to develop classes of improved bots that would play a card game against each other or against a human in the browser while evaluating their abilities in terms of winning ratio.
 
